@@ -29,18 +29,18 @@ header {
 }
 
 .nav-menu li {
-    margin: 0 30px;
+    margin: 0 10px;
 }
 
 .nav-menu a {
     color: white;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 20px;
     transition: color 0.6s ease;
 }
 
 .nav-menu a:hover {
-    color: #96630c;
+    color: #ffa200;
 }
 
 section {
